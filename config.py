@@ -7,7 +7,7 @@ SQLALCHEMY_DATABASE_URI = \
         SGBD = 'mysql+mysqlconnector',
         usuario = 'root',
         senha = 'admin',
-        servidor = 'localhost',
+        servidor = '64l!0770',
         database = 'jogoteca'
     )
 
