@@ -20,7 +20,7 @@ except mysql.connector.Error as err:
 
 cursor = conn.cursor()
 
-cursor.execute("DROP DATABASE `jogoteca`;")
+# cursor.execute("DROP DATABASE `jogoteca`;")
 
 cursor.execute("CREATE DATABASE `jogoteca`;")
 
