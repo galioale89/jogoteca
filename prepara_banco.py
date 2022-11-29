@@ -5,7 +5,7 @@ from flask_bcrypt import generate_password_hash
 print("Conectando...")
 try:
       conn = mysql.connector.connect(
-            host='localhost,
+            host='localhost',
             user='root',
             password='3rdn4x3L@'
       )
